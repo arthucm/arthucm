@@ -1,5 +1,6 @@
 # Arthur Cervantes
 **Finance Professional | Data Analyst**
+
 *Bridging finance and data science to build automated solutions, drive insights, and create value.*
 
 ![IMG_1371](https://github.com/user-attachments/assets/7526d869-81a7-48ce-8c1c-5b78b553ddc4)
